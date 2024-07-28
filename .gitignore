@@ -1,0 +1,42 @@
+# Maven
+target/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ
+.idea/
+
+# NetBeans
+nb-configuration.xml
+
+# Log files
+logs/
+build/
+
+
+# Compiled class files
+*.class
+
+# Compiled JAR files
+*.jar
+
+# Generated files
+gen/
+
+# IntelliJ
+*.iml
+*.iws
+*.ipr
+
+# VS Code
+.vscode/
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
